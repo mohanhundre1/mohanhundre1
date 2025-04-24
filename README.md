@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking for help with **New Organization.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mohanhundre1/DevOps-projects.git](https://github.com/mohanhundre1/MLprojects.git)
+- 👨‍💻 All of my projects are available at [https://github.com/mohanhundre1/MLprojects.git](https://github.com/mohanhundre1/MLprojects.git)
 
 - 📫 How to reach me **mohan.hundre01@gmail.com***
 
