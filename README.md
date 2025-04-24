@@ -1,20 +1,18 @@
 
 <h1 align="center">Hi 👋, I'm Mohan Hundre</h1>
-<h3 align="center">A passionate DevOps Engineer from India</h3>
+<h3 align="center">A passionate Machine Learning Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohanhundre1&label=Profile%20views&color=0e75b6&style=flat" alt="mohanhundre1" /> </p>
 
 - 🔭 I’m currently working on **Investment Banking Project with UK client.**
 
-- 🌱 I’m currently learning **Machine Learning and ML-Ops deployment with DevOps Pipeline.**
-
 - 🤝 I’m looking for help with **New Organization.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mohanhundre1/DevOps-projects.git](https://github.com/mohanhundre1/DevOps-projects.git)
+- 👨‍💻 All of my projects are available at [https://github.com/mohanhundre1/DevOps-projects.git](https://github.com/mohanhundre1/MLprojects.git)
 
 - 📫 How to reach me **mohan.hundre01@gmail.com***
 
-- ⚡ Know about my Experience **7+ years in DevOps Engineer.**
+- ⚡ Know about my Experience **7+ years in ML Engineer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
