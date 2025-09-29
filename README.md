@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Mohan Hundre</h1>
-<h3 align="center">A passionate MLOps Engineer from India</h3>
+<h3 align="center">A passionate LLMOps Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohanhundre1&label=Profile%20views&color=0e75b6&style=flat" alt="mohanhundre1" /> </p>
 
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **mohan.hundre01@gmail.com***
 
-- ⚡ Know about my Experience **9+ years in MLOps Engineer.**
+- ⚡ Know about my Experience **9+ years in LLMOps Engineer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
