@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at productionised wait for same time...
 
-- 📫 How to reach me **mohan.hundre01@gmail.com***
+- 📫 How to reach me **mohanhundre@gmail.com***
 
 - ⚡ Know about my Experience **9+ years in LLMOps Engineer.**
 
