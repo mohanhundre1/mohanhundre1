@@ -10,9 +10,9 @@
 
 - 👨‍💻 All of my projects are available at productionised wait for same time...
 
-- 📫 How to reach me **mohanhundre45@gmail.com***
+- 📫 How to reach me **mohanhundreaieng@gmail.com***
 
-- ⚡ Know about my Experience **8+ years in GenAI Engineer.**
+- ⚡ Know about my Experience **9+ years in GenAI Engineer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
