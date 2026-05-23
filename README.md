@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohanhundre1&label=Profile%20views&color=0e75b6&style=flat" alt="mohanhundre1" /> </p>
 
-- 🔭 I’m currently working on **Investment Banking Project with UK client.**
+- 🔭 I’m currently working at **Nagarro as Senior AI Engineer.**
 
 - 🤝 I’m looking for help with **New Organization.**
 
 - 👨‍💻 All of my projects are available at productionised wait for same time...
 
-- 📫 How to reach me **mohanhundreaieng@gmail.com***
+- 📫 How to reach me **mohanhundre.genaig@gmail.com***
 
 - ⚡ Know about my Experience **9+ years in GenAI Engineer.**
 
