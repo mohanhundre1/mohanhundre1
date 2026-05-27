@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **mohanhundre.genai@gmail.com***
 
-- ⚡ Know about my Experience **9+ years in GenAI Engineer.**
+- ⚡ Know about my Experience **9+ years in AI Engineer filed.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
