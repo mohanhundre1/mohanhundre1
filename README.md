@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohanhundre1&label=Profile%20views&color=0e75b6&style=flat" alt="mohanhundre1" /> </p>
 
-- 🔭 I’m currently working at **Nagarro as Senior AI Engineer**
+- 🔭 I’m currently working at **Nagarro as Senior AI Engineer..**
 
 - 🤝 I’m looking for help with **New Organization.**
 
